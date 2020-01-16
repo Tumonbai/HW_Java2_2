@@ -2,7 +2,7 @@ package com.company;
 
 public class Comedy extends Film implements Printable  {
     int a= 2;
-    String  b ="Hahahaa";
+    String  b ="Hahaha";
 
     public Comedy(int a, String b) {
         this.a = a;
